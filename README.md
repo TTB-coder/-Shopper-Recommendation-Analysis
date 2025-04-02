@@ -203,7 +203,8 @@ The results indicate that **LightGBM provides the highest accuracy**, making it 
 ## 📌 Get in Touch
 🔗 [LinkedIn](https://www.linkedin.com/in/ttb1)  
 🔗 [GitHub](https://github.com/TTB-coder)
-![Screenshot 2025-04-01 at 8 23 53 PM](https://github.com/user-attachments/assets/f66d2ef5-ec69-4143-a643-59fdc6c23569)
+
+![Screenshot 2025-04-01 at 8 35 25 PM](https://github.com/user-attachments/assets/da25935a-44e3-41cf-84ad-ad90dbef1615)
 
 
 
